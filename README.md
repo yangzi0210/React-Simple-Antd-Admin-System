@@ -1,7 +1,8 @@
 # React-Simple-Antd-Admin-System
+<p align='center'><img src='./React-Simple-Antd-Admin-System/src/Images/logo192.png'> </p>
+
 ## 技术栈
-- 使用dummy json APIs模拟获取数据传到表格等组件中
-- React、React-Hooks、React-router、Antd、Antv、fetch
+- React、React-Hooks、React-router、Antd、Antv、fetch、dummy json APIs
 ## 预览图
 **Chrome**
 
