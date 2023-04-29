@@ -1,39 +1,38 @@
 # React-Simple-Antd-Admin-System
-<p align='center'><img src='./React-Simple-Antd-Admin-System/src/Images/logo192.png'> </p>
+
+<p align='center'><img src='./src/Images/logo192.png'> </p>
 
 ## 技术栈
-- React、React-Hooks、React-router、Antd、Antv、fetch、dummy json APIs
+
+- React
+- React-Hooks
+- React-router-dom
+- Antd
+- Antv
+- fetch
+- dummy json APIs
 ## 预览图
+
 **Chrome**
 
 <hr>
 
-![](./React-Simple-Antd-Admin-System/preview/p1.png)
+![](preview/p1.png)
 <hr>
 
-![](./React-Simple-Antd-Admin-System/preview/p2.png)
+![](preview/p2.png)
 <hr>
 
-![](./React-Simple-Antd-Admin-System/preview/p3.png)
+![](preview/p3.png)
 <hr>
 
-![](./React-Simple-Antd-Admin-System/preview/p4.png)
+![](preview/p4.png)
 <hr>
 
-![](./React-Simple-Antd-Admin-System/preview/p5.png)
+![](preview/p5.png)
 
 ## 使用方法
 
-### yarn (安装依赖)
-### yarn start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser. The page will reload when you make changes. You may also see any lint errors in the console.
+### 1. yarn
+### 2. yarn start
 
-### yarn test
-Launches the test runner in the interactive watch mode. See the section about running tests for more information.
-
-### yarn build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
